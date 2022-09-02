@@ -20,7 +20,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with Tailwind css
+          Learn React with Tailwind css styling
         </a>
       </header>
     </div>
