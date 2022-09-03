@@ -12,7 +12,7 @@ function App() {
           alt="logo"
         />
         <p className="mt-8">
-          Edit <code>src/App.js</code> and save to reload.
+           <code>src/App.js</code> and save to reload.
         </p>
         <a
           className="App-link"
